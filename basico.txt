@@ -1,6 +1,6 @@
 1. Conocer los comoponetes de ios
 2. Estructuras
-3. librerias
+3. usar libreria cocoapods
 
 
 
